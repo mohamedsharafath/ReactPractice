@@ -1,0 +1,2 @@
+! to upload image instead writing the source directly in src,import the source of image with any name and send it to the source.
+///src={logo}
