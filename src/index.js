@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import UserTable from './components/ApiData';
+import Boxcolor from './components/boxcolor';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <UserTable/>
+    <Boxcolor/>
   </React.StrictMode>
 );
 
